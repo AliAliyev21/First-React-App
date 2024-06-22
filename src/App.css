@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Base {
+  background-color: rgb(250, 249, 249);
+  padding: 0;
+}
+
+.navi {
+  background-color: white;
+  margin-top: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.main {
+  background-color: rgb(250, 249, 249);
+}
+
+.side {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.side-header {
+  background-color: slateblue;
+}
+
+.side-content {
+  background-color: rgb(125, 110, 222);
+}
+
+.title {
+  color: white;
+  padding: 30px;
+  font-size: 30px;
+  font-weight:600;
+  margin: 0; 
+}
+
+.one{
+  font-size: 20px;
+  padding: 25px;
+  color: white;
+  font-weight: 400;
+}
+
+.side-content h2 {
+  margin: 10px;
+  padding-left: 20px; 
+  font-size: 20px;
+  padding: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  color: white;
+}
+
+.home {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+.about {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+.pages {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+.portfolio {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+.fag {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+.contact {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 7px; 
+}
+
+
+.write {
+  width: 35px; 
+  height: 30px; 
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.react {
+  width: 400px; 
+  height: 400px; 
+  padding-left: 30px;
+  padding-bottom: 5px;
+}
+
+.main h1 {
+  font-size: 76px;
+  font-weight: 500;
+}
+
+.main h2 {
+  font-size: 46px;
+  font-weight: 400;
+  margin: auto;
+  text-align: center;
+  padding-right: 250px;
+}
+
